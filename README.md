@@ -61,17 +61,17 @@ Após publicar no GitHub Pages, o projeto poderá ser acessado em:
 https://SEU-USUARIO.github.io/agrinho2026/
 ```
 
-(Substitua **SEU-USUARIO** pelo seu usuário do GitHub.)
+(Substitua EnnzhoLanza123 pelo seu usuário do GitHub.)
 
 ---
 
 ## 👨‍🎓 Autor
 
-**Aluno:** [Seu nome]
+**Aluno:** ENNZHO LANZA
 
-**Escola:** [Nome da sua escola]
+**Escola:** DOM PEDRO II
 
-**Professor:** [Nome do professor]
+**Professor:** LUIZ MOCHKO
 
 ---
 
