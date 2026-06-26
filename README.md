@@ -58,10 +58,9 @@ O site foi desenvolvido utilizando HTML, CSS e JavaScript, oferecendo uma experi
 Após publicar no GitHub Pages, o projeto poderá ser acessado em:
 
 ```
-https://SEU-USUARIO.github.io/agrinho2026/
+https://EnnzhoLanza123.github.io/agrinho2026/
 ```
 
-(Substitua EnnzhoLanza123 pelo seu usuário do GitHub.)
 
 ---
 
